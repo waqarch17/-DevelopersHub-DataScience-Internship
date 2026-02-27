@@ -121,11 +121,7 @@ Predict which bank customers are likely to accept a personal loan offer based on
 
 ## ▶️ How to Run
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/YOUR_USERNAME/DevelopersHub-DataScience-Internship.git
-   cd DevelopersHub-DataScience-Internship
-   ```
+git clone https://github.com/waqarch17/DevelopersHub-DataScience-Internship.git
 
 2. Install required libraries:
    ```bash
